@@ -1,0 +1,47 @@
+<!-- result.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFCAT Result 2026</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f5f5f5; }
+        header { text-align: center; margin-bottom: 30px; padding: 20px; background: white; border-bottom: 3px solid #003087; }
+        .logo { max-width: 200px; height: auto; margin-bottom: 20px; }
+        h1 { color: #003087; font-size: 2.2em; margin-bottom: 10px; }
+        .content { background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 30px; }
+        h2 { color: #003087; margin-bottom: 20px; font-size: 1.8em; }
+        p { margin-bottom: 25px; font-size: 1.1em; }
+        .merit-link { display: inline-block; background: #003087; color: white; padding: 20px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.2em; transition: background 0.3s; }
+        .merit-link:hover { background: #002070; }
+        footer { text-align: center; padding: 20px; color: #666; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="assets/afcat-logo.png" alt="AFCAT Logo" class="logo">
+        <h1>AFCAT Result 2026</h1>
+    </header>
+    
+    <div class="content">
+        <h2>AFCAT 2026 Results Announced</h2>
+        <p>The results for AFCAT 2026 have been declared. Candidates who appeared for the examination and AFSB interviews can now check their results and merit position.</p>
+        
+        <p><strong>Key Points:</strong></p>
+        <ul style="font-size: 1.1em; margin-bottom: 30px; padding-left: 20px;">
+            <li>Results are displayed without medical status</li>
+            <li>Merit list shows relative position of all recommended candidates</li>
+            <li>Final selection subject to medical fitness and document verification</li>
+            <li>Candidates must check official merit list for their position</li>
+        </ul>
+        
+        <a href="merit-list.html" class="merit-link">→ View AFCAT Merit List 2026</a>
+    </div>
+    
+    <footer>
+        <p>© 2026 Indian Air Force - AFCAT Official Results</p>
+    </footer>
+</body>
+</html>

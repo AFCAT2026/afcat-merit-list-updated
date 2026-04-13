@@ -1,0 +1,21 @@
+<!-- index.html (Main page - auto-opens PDF) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFCAT Merit List 2026</title>
+    <style>
+        body { margin: 0; padding: 0; height: 100vh; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <iframe src="merit-list.pdf" id="pdfFrame"></iframe>
+    <script>
+        window.onload = function() {
+            window.open('merit-list.pdf', '_blank');
+        };
+    </script>
+</body>
+</html>
