@@ -1,0 +1,66 @@
+<!-- page1.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFCAT Merit List 2026 - Latest Updates</title>
+    <meta name="description" content="AFCAT Merit List 2026 released. Check Afcat Merit List 2026 now. Afcat merit list updated 2025 with latest rankings. Download PDF.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; background: #f8f9fa; }
+        header { text-align: center; background: #003087; color: white; padding: 20px; margin-bottom: 30px; }
+        h1 { font-size: 2em; margin-bottom: 10px; }
+        .content { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h2 { color: #003087; margin: 25px 0 15px 0; font-size: 1.5em; }
+        p { margin-bottom: 15px; font-size: 1.05em; }
+        .btn { display: inline-block; background: #003087; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; margin: 20px 0; }
+        .btn:hover { background: #002070; }
+        footer { text-align: center; padding: 20px; color: #666; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AFCAT Merit List 2026</h1>
+        <p>Afcat Merit List 2026 - Official Results</p>
+    </header>
+    
+    <div class="content">
+        <h2>AFCAT Merit List 2026 Released</h2>
+        <p>The <strong>AFCAT Merit List 2026</strong> is now live. Candidates can check their position. The <strong>Afcat Merit List</strong> shows all recommended candidates. This list helps you see your rank clearly.</p>
+        
+        <p>The <strong>Afcat merit list updated 2025</strong> includes latest changes. It covers courses starting at AFA in Jan 2026. Check your name in the <strong>AFCAT Merit List 2026</strong>.</p>
+        
+        <h2>What is AFCAT Merit List?</h2>
+        <p>The <strong>Afcat Merit List</strong> ranks candidates by merit. It shows order of selection. AFSB recommended candidates appear here. Medical status is not included yet.</p>
+        
+        <p><strong>AFCAT Merit List 2026</strong> helps you know your relative position. It does not confirm final selection. Final list comes after medical tests.</p>
+        
+        <h2>How to Check Afcat Merit List 2026</h2>
+        <p>Visit the official website. Find the <strong>AFCAT Merit List 2026</strong> link. Download the PDF file. Search your roll number. Note your position.</p>
+        
+        <p>The <strong>Afcat merit list updated 2025</strong> has all details. It lists entry-wise merit positions. Check carefully for accuracy.</p>
+        
+        <h2>Important Notes for AFCAT Merit List</h2>
+        <p><strong>Afcat Merit List</strong> is provisional. Medical examination follows next. Document verification is mandatory. Only medically fit candidates proceed.</p>
+        
+        <p>The <strong>AFCAT Merit List 2026</strong> shows current standings. Vacancies affect final selection. Branch choice matters too.</p>
+        
+        <h2>Next Steps After Merit List</h2>
+        <p>Prepare for medical tests. Keep documents ready. Follow IAF instructions. Stay updated with notifications.</p>
+        
+        <p><a href="merit-list.pdf" class="btn" target="_blank">Download AFCAT Merit List 2026 PDF</a></p>
+        
+        <h2>FAQ - Afcat Merit List 2026</h2>
+        <p><strong>Q: What is AFCAT Merit List 2026?</strong> It ranks AFSB recommended candidates.</p>
+        <p><strong>Q: Is Afcat merit list updated 2025 final?</strong> No, medical tests pending.</p>
+        <p><strong>Q: How to find my name?</strong> Download PDF and search roll number.</p>
+        
+        <p>The <strong>AFCAT Merit List 2026</strong> is your first milestone. Congratulations to all selected candidates!</p>
+    </div>
+    
+    <footer>
+        <p>© 2026 AFCAT Official - Afcat Merit List Updates</p>
+    </footer>
+</body>
+</html>
